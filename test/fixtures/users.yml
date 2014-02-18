@@ -5,5 +5,5 @@ michael:
   last_name: "Barlow"
   email: "m.barlow12@gmail.com"
   profile_name: "michaelbarlow"
-  password: "password"
-  password_confirmation: "password"
+  # password: "password"
+  # password_confirmation: "password"

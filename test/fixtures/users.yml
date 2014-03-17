@@ -7,3 +7,9 @@ michael:
   profile_name: "michaelbarlow"
   # password: "password"
   # password_confirmation: "password"
+
+jim:
+  first_name: "Jim"
+  last_name: "HOskins"
+  email: "jhoskins@treehouse.com"
+  profile_name: "jimhoskins"
